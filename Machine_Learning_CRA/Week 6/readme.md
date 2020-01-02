@@ -23,8 +23,8 @@ Given many models with different polynomial degrees, we can use a systematic app
 
 One way to break down our dataset into the three sets is:
 
-. Training set: 60%
-. Cross validation set: 20%
+. Training set: 60%<br/>
+. Cross validation set: 20% <br/>
 . Test set: 20%
 
 We can now calculate three separate error values for the three different sets using the following method:
