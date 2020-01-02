@@ -1,1 +1,5 @@
-
+## Implementation Note: Unrolling Parameters ##
+With neural networks, we are working with sets of matrices:
+Θ(1),Θ(2),Θ(3),…
+D(1),D(2),D(3),…
+---------------------------------------------------------------------------------------------------------------------------------
