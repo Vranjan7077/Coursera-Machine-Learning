@@ -1,0 +1,18 @@
+1)  4
+
+2) ?0=-569.6 , ?1= -530.9
+
+3). 
+?0=-1,?1=0.5
+Setting x = 4, 
+we have :  
+h?(x)=?0+?1x = -1 + (0.5)(4) = 1
+
+4) . If \theta_0 and \theta_1 are initialized at the global minimum, then one iteration will not change their values.
+   . If the first few iterations of gradient descent cause f(\theta_0 , \theta_1) to increase rather than decrease, then the most 
+     likely cause is that we have set the learning rate \alpha to too large a value.
+
+
+5) For these values of ?0 and ?1 that satisfy J(?0,?1) = 0, we have that h? (x^(i))=y^(i)
+  for every training example (x^(i) , y^(i)).
+ 
